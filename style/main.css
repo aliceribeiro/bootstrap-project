@@ -1,0 +1,35 @@
+.navbar {
+  background-color: #F08080;
+}
+
+.teste {
+  color: #F2F2F2;
+  text-transform: uppercase;
+}
+
+.teste:hover {
+  color: #FFF;
+  font-weight: 500;
+}
+
+.quem-somos {
+  background-color: #F4F4F4;
+}
+
+.margin {
+  padding-top: 150px;
+  padding-bottom: 30px;
+}
+
+.parceiros {
+  background-color: lightblue;
+}
+
+.bg-footer {
+  background-color: #f08080;
+  color: #F4F4F4;
+}
+
+.margin2 {
+  margin-right: 100px;
+}
