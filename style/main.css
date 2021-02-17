@@ -1,14 +1,14 @@
 .navbar {
-  background-color: #F08080;
+  background-color: #F1F1EF;
 }
 
 .teste {
-  color: #F2F2F2;
+  color: #000;
   text-transform: uppercase;
 }
 
 .teste:hover {
-  color: #FFF;
+  color: rgb(41, 38, 38);
   font-weight: 500;
 }
 
@@ -17,8 +17,9 @@
 }
 
 .margin {
-  padding-top: 150px;
+  padding-top: 120px;
   padding-bottom: 30px;
+  color: black;
 }
 
 .parceiros {
@@ -33,3 +34,26 @@
 .margin2 {
   margin-right: 100px;
 }
+
+/* .banner img {
+  opacity:.5;
+} */
+
+/* .carousel-caption {
+  color: black;
+}
+
+.carousel-indicators li {
+  background-color: black;
+} */
+
+.card {
+  border: none;
+}
+
+.banner img {
+  height: 100vh;
+  object-fit: cover;
+  object-position: bottom;
+}
+
