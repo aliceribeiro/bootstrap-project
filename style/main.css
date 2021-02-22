@@ -35,17 +35,9 @@
   margin-right: 100px;
 }
 
-/* .banner img {
-  opacity:.5;
-} */
-
-/* .carousel-caption {
-  color: black;
+.margin3 {
+  margin: 0 25% 0 25%;
 }
-
-.carousel-indicators li {
-  background-color: black;
-} */
 
 .card {
   border: none;
@@ -56,4 +48,3 @@
   object-fit: cover;
   object-position: bottom;
 }
-
