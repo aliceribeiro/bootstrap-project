@@ -18,17 +18,12 @@
 
 .margin {
   padding-top: 120px;
-  padding-bottom: 30px;
+  /* padding-bottom: 30px; */
   color: black;
 }
 
 .parceiros {
   background-color: lightblue;
-}
-
-.bg-footer {
-  background-color: #f08080;
-  color: #F4F4F4;
 }
 
 .margin2 {
@@ -39,7 +34,7 @@
   margin: 0 25% 0 25%;
 }
 
-.card {
+.banner {
   border: none;
 }
 
@@ -58,4 +53,5 @@
   display: flex;
   justify-content: center;
   width: 940px;
+  margin-bottom: 50px;
 }
